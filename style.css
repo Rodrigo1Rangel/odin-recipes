@@ -1,0 +1,41 @@
+*{
+    font-size: 28px;
+    color: black;
+    line-height: 60px;
+    text-transform: capitalize;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover{
+    color:blue;
+}
+
+a:active{
+    color:black;
+}
+
+
+h1{
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#background{
+    background-image: url("background-recipes.jpg");
+    height: 1000px;
+    margin-top: -30px;
+    margin-left: -10px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div{
+    text-align: center;
+    padding-top: 420px;
+    font-weight: bold;
+
+}
